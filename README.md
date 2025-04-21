@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeFusionX
 
 A real-time collaborative code editor with video chat capabilities.
@@ -204,3 +205,6 @@ Special thanks to:
     </tr>
   </tbody>
 </table>
+=======
+# Minor_Project
+>>>>>>> da4fefe05e950e6d6172903d440a0f85437849a8
